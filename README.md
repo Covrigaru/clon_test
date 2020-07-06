@@ -1,4 +1,4 @@
-# clon_test
+# clone_test
 new readme file added
-Update file read.me
+Update new file readme file 
 
